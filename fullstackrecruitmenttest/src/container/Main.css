@@ -1,0 +1,22 @@
+.error-panel {
+    padding: 30px;
+    margin: 30px;
+    border-radius: 5px;
+    border: 1px solid red;
+    color: #DB1E1E;
+}
+
+.success-panel {
+    padding: 30px;
+    margin: 30px;
+    border-radius: 5px;
+    border: 1px solid green;
+    color: #008000;
+}
+
+.download {
+    margin: 30px;
+    position: absolute;
+        right: 0px;
+        top: 0px;
+}
